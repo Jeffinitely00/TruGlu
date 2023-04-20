@@ -17,3 +17,5 @@ Steps and technologies used;
 Unsolved problems;
 
 1.) I wanted to display crypto market data in my header as a ticker tape
+
+2.) ***Josh and Christina, my first commit was on another project(https://github.com/Jeffinitely00/imageGenerator) using a different API that I couldnt get to work which is the cause for this project to have less than recommended commits. Please don't deduct from my grade :D *** 
