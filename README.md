@@ -1,5 +1,5 @@
 Link Github; https://github.com/Jeffinitely00/TruGlu
-Link Netlify;
+Link Netlify; https://endearing-sunburst-560258.netlify.app
 
 TruGlu is built for 2 main functionalities at this time;
 
