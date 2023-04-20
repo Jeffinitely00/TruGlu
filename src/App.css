@@ -5,24 +5,54 @@
     width: 100vw;
     font-family: 'Rubik', sans-serif;
   }
-  
+
   body {
     padding: 0%;
     margin: 0%;
   }
   
+  .cryptoHeader {
+    width: 100%;
+    height: 200px;
+    background: rgb(109,34,195);
+    background: linear-gradient(0deg, rgba(109,34,195,1) 0%, rgba(45,253,139,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
+  .cryptoHeader input {
+    width: 50%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 80px;
+  }
+  
+  .cryptoDisplay {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
   .coin {
     width: 400px;
     height: 300px;
-    background-color: rgb(36, 36, 36);
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
     color: white;
-    box-shadow: rgba(0, 0, 0, 5.24) 0px 3px 8px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border-radius: 10px;
     margin: 20px;
     text-align: center;
   }
   
   .coin img {
-    height: 100px;
-  }
+    height: 80px;
+  } 
