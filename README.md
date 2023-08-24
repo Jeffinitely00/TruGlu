@@ -2,6 +2,8 @@ Link Github; https://github.com/Jeffinitely00/TruGlu
 
 Link Netlify; https://endearing-sunburst-560258.netlify.app
 
+![Screenshot (12)](https://github.com/Jeffinitely00/TruGlu/assets/125405037/9193a431-26c1-4af7-bbcb-95e18429d2cf)
+
 <h3>TruGlu is built for 2 main functionalities at this time;</h3>
 
 1.) Display all cryptocurrency data
