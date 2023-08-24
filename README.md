@@ -12,9 +12,13 @@ Link Netlify; https://endearing-sunburst-560258.netlify.app
 <h3>Steps and technologies used;</h3>
 
 1.) Find API that tracks coin data
+
 2.) Call API by using Axios library instead of useFetch
+
 3.) useEffect to display coins when page renders
+
 4.) useState to represent listOfCoins
+
 5.) input text with map filter to filter coins in search
 
 <h3>Unsolved problems;</h3>
